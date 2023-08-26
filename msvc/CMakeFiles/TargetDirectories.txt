@@ -1,0 +1,13 @@
+N:/Development/Dev_Base/glfw-3.3.8/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/src/CMakeFiles/update_mappings.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/src/CMakeFiles/glfw.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/boing.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/simple.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/gears.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/particles.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/heightmap.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/splitview.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/offscreen.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/sharing.dir
+N:/Development/Dev_Base/glfw-3.3.8/msvc/examples/CMakeFiles/wave.dir

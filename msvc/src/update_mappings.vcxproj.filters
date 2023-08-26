@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="..\CMakeFiles\4823826711fe56894a3849becb4a9be6\update_mappings.rule" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\src\mappings.h.in" />
+    <None Include="..\..\CMake\GenerateMappings.cmake" />
+    <None Include=".\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8B8FE261-9E19-3F66-B33C-8C2BD1A3A4F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{65742FEC-FC5A-3B92-A115-46958C212115}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
