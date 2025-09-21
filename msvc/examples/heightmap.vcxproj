@@ -477,18 +477,6 @@
     <ClInclude Include="..\..\deps\glad\gl.h" />
     <ClCompile Include="..\..\deps\glad_gl.c" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ZERO_CHECK.vcxproj">
-      <Project>{1F1A7158-63C6-3AEC-B1D3-8E0A3A821464}</Project>
-      <Name>ZERO_CHECK</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-    <ProjectReference Include="..\src\glfw.vcxproj">
-      <Project>{98DE20A1-C04D-3B6C-85CF-125DBEC49698}</Project>
-      <Name>glfw</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

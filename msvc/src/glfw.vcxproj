@@ -498,14 +498,6 @@
     <ClInclude Include="..\..\src\egl_context.h" />
     <ClInclude Include="..\..\src\osmesa_context.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ZERO_CHECK.vcxproj">
-      <Project>{1F1A7158-63C6-3AEC-B1D3-8E0A3A821464}</Project>
-      <Name>ZERO_CHECK</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
